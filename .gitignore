@@ -20,6 +20,8 @@
 # Debug files
 *.pdb
 
+*.ilk
+
 # Build directories
 build/
 bin/
